@@ -38,4 +38,4 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 
 ### Como poner una imagen
 
-![alt text](image.png) "Titulo opcional"
+[alt text](image.png "Titulo opcional")
