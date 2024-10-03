@@ -33,9 +33,16 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 </body>
 </head>
 ```
-# Como poner un link
+### Como poner un link
 [Página web de Jesuites Bellvitge](https://www.fje.edu/ca/jesuites-bellvitge "Titulo opcional") 
 
 ### Como poner una imagen
 
 ![imagen de venom](image.png "Titulo opcional")
+
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|----------|:------------:|--------------:|
+|SMX2 |Curso 2324|25|
+|ASIX1|Curso 2425|33|
+|DAW2|Curso 2425|32|
+
