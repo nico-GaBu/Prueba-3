@@ -1,2 +1,8 @@
 # Prueba-3
-Primera clase de Markdown
+## Segundo nivel de encabezados
+### Tercer nivel de encabezados
+#### Cuarto nivel de encabezados
+##### Quinto nivel de encabezados
+###### Sexto nivel de encabezados
+
+
