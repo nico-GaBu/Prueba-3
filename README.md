@@ -5,4 +5,21 @@
 ##### Quinto nivel de encabezados
 ###### Sexto nivel de encabezados
 
+Estos son mis apuntes del *0373* del ciclo de _ASIX_ o **DAW** del curso __2425__.
 
+Las etiquetas en **_markdown_** y HTML pueden anidarse.
+
+1. Primer punto de la lista
+    1. Primer elemento de la sublista 1
+    2. Segundo elemento de la sublista 1
+2. Segundo punto de la lista
+    * Primer elemento de la sublista 2
+    * Segundo elemento de la sublista 2
+3. Tercer Punto de la lista.
+    * Primer elemento de la sublista 3
+    - Segundo elemento de la sublista 3
+    + Tercer elemento de la sublista 3
+
+* Primer punto de lista desordenada
+* Segundo punto de lista desordenada
+* Tercer punto de lista desordenada
